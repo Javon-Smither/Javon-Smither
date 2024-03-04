@@ -1,9 +1,12 @@
 <h1>Hi, I'm Javon! A Passionate and Driven Cybersecurity Analyst</h1>
 
-<h2>👨‍💻 Azure / Cloud Cybersecurity Projects:</h2>
+<h2>👨‍💻 Azure / Cloud Projects and Certifications:</h2>
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/Javon-Smither/Azure-SOC)
+ 
+- <b>Coursera Cybersecurity Course through Google
+  - [Certification of completion] (https://www.coursera.org/account/accomplishments/specialization/FRTAZQY92PKJ)
 
 <h2> 🤳 You can also find me at:</h2>
 
