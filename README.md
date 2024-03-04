@@ -12,6 +12,8 @@
 
 [linkedin] : (https://www.linkedin.com/in/javon-smither/)
 
+[indeed] : (https://profile.indeed.com/?from=profmc)
+
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
