@@ -7,8 +7,6 @@
 
 <h2> 🤳 You can also find me at:</h2>
 
-[<img align="left" alt="JavonSmither | LinkedIn" width="22px" src="" />][linkedin]
-
 [linkedin]: 
 
 <!--
