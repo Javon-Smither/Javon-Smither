@@ -4,6 +4,9 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/Javon-Smither/Azure-SOC)
+
+- <b>Leveld Careers SOC Analyst
+  - [Certification of completetion] (https://screenshot.kajabi.com/generate-pdf?orientation=landscape&url=https%3A%2F%2Fapp.kajabi.com%2Fcertificates%2F8971e3fd%2Fdownload%3Fscreenshot_token%3DBAhbB0kiE2FwcC5rYWphYmkuY29tBjoGRVRVOiBBY3RpdmVTdXBwb3J0OjpUaW1lV2l0aFpvbmVbCEl1OglUaW1lDddPH8A%252FQr%252FvCToJem9uZUkiCFVUQwY7AEY6DW5hbm9fbnVtaQLnAzoNbmFub19kZW5pBjoNc3VibWljcm8iB5mQSSIIVVRDBjsAVEl1OwcN108fwD9Cv%252B8JOwhACTsJaQLnAzsKaQY7CyIHmZA%253D--c81a2ce906c814bdc0d4fcd8613b1d1b8f10eab9%26screenshot_token_ts%3D1709318986)
  
 - <b>Coursera Cybersecurity Course through Google
   - [Certification of completion] (https://www.coursera.org/account/accomplishments/specialization/FRTAZQY92PKJ)
