@@ -12,7 +12,7 @@
   - [Certification of completion] (https://www.coursera.org/account/accomplishments/specialization/FRTAZQY92PKJ)
  
 - <b>CompTIA A+
-  - [Certification of completion] (file:///C:/Users/VWHP/Downloads/CompTIA%20A+%20ce%20certificate.pdf) 
+  - [Certification of completion] (https://drive.google.com/file/d/1kFL1Z8o688h4o4ZWpiqild1E-KcPGk-x/view)
 
 <h2> 🤳 You can also find me at:</h2>
 
