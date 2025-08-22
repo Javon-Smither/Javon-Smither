@@ -10,6 +10,9 @@
  
 - <b>Coursera Cybersecurity Course through Google
   - [Certification of completion] (https://www.coursera.org/account/accomplishments/specialization/FRTAZQY92PKJ)
+ 
+- <b>CompTIA A+
+  - [Certification of completion] (file:///C:/Users/VWHP/Downloads/CompTIA%20A+%20ce%20certificate.pdf) 
 
 <h2> 🤳 You can also find me at:</h2>
 
@@ -22,7 +25,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ..
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
