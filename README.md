@@ -1,4 +1,4 @@
-<h1>Hi, I'm Javon! A Passionate and Driven Cybersecurity Analyst</h1>
+<h1>Hi, I'm Javon! A Passionate and Driven Help Desk Technician</h1>
 
 <h2>👨‍💻 Azure / Cloud Projects and Certifications:</h2>
 
