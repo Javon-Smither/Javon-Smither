@@ -15,7 +15,7 @@
   - [Certification of completion] (https://drive.google.com/file/d/1kFL1Z8o688h4o4ZWpiqild1E-KcPGk-x/view)
  
 - <b>Jumpcloud Advanced Certification
-  - [Certification of completion] (file:///C:/Users/jsmither/Downloads/advanced-certification-exam-2025-29-10-2025.pdf)
+  - [Certification of completion] (https://technologygroupsolutions-my.sharepoint.com/:b:/g/personal/jsmither_tgs-mtc_com/Efd-EjOT0EVJrPUxbVn4IAAB0e2beB7maiMyxtKyO6qMjA)
 
 <h2> 🤳 You can also find me at:</h2>
 
