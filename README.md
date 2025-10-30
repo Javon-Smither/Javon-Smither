@@ -16,6 +16,9 @@
  
 - <b>Jumpcloud Advanced Certification
   - [Certification of completion] (https://technologygroupsolutions-my.sharepoint.com/:b:/g/personal/jsmither_tgs-mtc_com/Efd-EjOT0EVJrPUxbVn4IAAB0e2beB7maiMyxtKyO6qMjA)
+ 
+- <b>Jumpcloud Foundations of Troubleshooting for your Clients
+  - [Certificate of completion] (https://imagefa.st/image/Screenshot-2025-10-30-090329.jupc)
 
 <h2> 🤳 You can also find me at:</h2>
 
